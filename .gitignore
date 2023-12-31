@@ -1,0 +1,4 @@
+.idea/
+*/__pycache__
+config/channel_register.json
+venv/

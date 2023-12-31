@@ -1,0 +1,8 @@
+[
+  {
+    "channel_name": "openai",
+    "channel_type": "openai",
+    "channel_api_url": "https://example.com/v1",
+    "channel_key": "example"
+  }
+]
